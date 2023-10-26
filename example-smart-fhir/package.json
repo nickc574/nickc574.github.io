@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cerner-smart-embeddable-lib": "^1.5.0",
+    "fhirclient": "^2.5.2"
+  }
+}
